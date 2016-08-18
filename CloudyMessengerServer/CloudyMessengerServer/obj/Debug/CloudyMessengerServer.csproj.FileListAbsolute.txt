@@ -1,1 +1,6 @@
 c:\users\skrivorot\documents\visual studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\bin\Debug\CloudyMessengerServer.exe.config
+c:\Users\skrivorot\Documents\Visual Studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\bin\Debug\CloudyMessengerServer.exe
+c:\Users\skrivorot\Documents\Visual Studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\bin\Debug\CloudyMessengerServer.pdb
+c:\Users\skrivorot\Documents\Visual Studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\obj\Debug\CloudyMessengerServer.csprojResolveAssemblyReference.cache
+c:\Users\skrivorot\Documents\Visual Studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\obj\Debug\CloudyMessengerServer.exe
+c:\Users\skrivorot\Documents\Visual Studio 2015\Projects\CloudyMessengerServer\CloudyMessengerServer\obj\Debug\CloudyMessengerServer.pdb
